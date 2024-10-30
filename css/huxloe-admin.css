@@ -1,0 +1,48 @@
+.huxloe-shippings-setting-page .huxloe_shippings_heading{
+	color: #1d2327;
+	font-size: 24px;
+	font-weight: 600;
+}
+.huxloe-shippings-setting-page .huxloe-shippings-box-section ol li{
+	font-size: 16px;
+	color: #3c434a;
+	margin-bottom: 10px;
+	line-height: 2;
+}
+.huxloe-shippings-setting-page .huxloe-setting-btn{
+	padding: 2px 20px;
+	color: #fff;
+	border-radius: 3px;
+	text-decoration: none;
+	margin-top: 15px;
+	font-size: 16px;
+	font-weight: 600;
+	display: flex ;
+	align-items: center;
+	justify-content: start;
+	gap: 3px;
+}
+.huxloe-shippings-setting-page .huxloe-shippings-box-section{
+	padding: 30px;
+	background: #ffffff;
+	border: 1px solid #dddddd;
+	line-height: 2;
+	border-radius: 10px;
+	margin-bottom: 20px;
+	margin-top: 11px;
+	display: flex;
+	flex-direction: column;
+	align-items: start;
+	justify-content: start;
+}
+.huxloe-shippings-setting-image {
+	margin-top: 12px;
+}
+.huxloe-shippings-setting-image img{
+	border-radius: 8px;
+	height: auto;
+	width: 900px;
+}
+.packing_slip .generate-packing-slip{
+	display: flex;
+}

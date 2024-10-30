@@ -1,0 +1,807 @@
+[
+    {
+        "carrier": "DX",
+        "service_code": "NS",
+        "service_description": "Secure Flex Next Day - Signature"
+    },
+    {
+        "carrier": "DX",
+        "service_code": "LS",
+        "service_description": "Secure Flex Next Day - Leave Safe"
+    },
+    {
+        "carrier": "DX",
+        "service_code": "MS",
+        "service_description": "Secure Flex Next Day - Mandatory Signature"
+    },
+    {
+        "carrier": "DX",
+        "service_code": "NSPre1",
+        "service_description": "Secure Flex Pre 1 - Signature"
+    },
+    {
+        "carrier": "DX",
+        "service_code": "MSPre1",
+        "service_description": "Secure Flex Pre 1 - Mandatory Signature"
+    },
+    {
+        "carrier": "DX",
+        "service_code": "NSPre1030",
+        "service_description": "Secure Flex Pre 10:30 - Signature"
+    },
+    {
+        "carrier": "DX",
+        "service_code": "MSPre1030",
+        "service_description": "Secure Flex Pre 10:30 - Mandatory Signature"
+    },
+    {
+        "carrier": "DX",
+        "service_code": "LSSAT",
+        "service_description": "Secure Flex Saturday - Leave Safe"
+    },
+    {
+        "carrier": "DX",
+        "service_code": "NSSAT",
+        "service_description": "Secure Flex Saturday - Signature"
+    },
+    {
+        "carrier": "DX",
+        "service_code": "MSSAT",
+        "service_description": "Secure Flex Saturday - Mandatory Signature"
+    },
+    {
+        "carrier": "DX",
+        "service_code": "NSSATPre1",
+        "service_description": "Secure Flex Saturday Pre 1 - Signature"
+    },
+    {
+        "carrier": "DX",
+        "service_code": "MSSATPre1",
+        "service_description": "Secure Flex Saturday Pre 1 - Mandatory Signature"
+    },
+    {
+        "carrier": "DX",
+        "service_code": "NSSATPre1030",
+        "service_description": "Secure Flex Saturday Pre 10:30 - Signature"
+    },
+    {
+        "carrier": "DX",
+        "service_code": "MSSATPre1030",
+        "service_description": "Secure Flex Saturday Pre 10:30 - Mandatory Signature"
+    },
+    {
+        "carrier": "DX",
+        "service_code": "SB",
+        "service_description": "Secure Business - Mandatory Signature"
+    },
+    {
+        "carrier": "DX",
+        "service_code": "SBPre1",
+        "service_description": "Secure Business Pre 1 - Mandatory Signature"
+    },
+    {
+        "carrier": "DX",
+        "service_code": "SBPre12",
+        "service_description": "Secure Business Pre 12 - Mandatory Signature"
+    },
+    {
+        "carrier": "DX",
+        "service_code": "SBPre1030",
+        "service_description": "Secure Business Pre 10:30 - Mandatory Signature"
+    },
+    {
+        "carrier": "DX",
+        "service_code": "SBSAT",
+        "service_description": "Secure Business Saturday - Mandatory Signature"
+    },
+    {
+        "carrier": "DX",
+        "service_code": "SBSATPre1",
+        "service_description": "Secure Business Saturday Pre 1 - Mandatory Signature"
+    },
+    {
+        "carrier": "DX",
+        "service_code": "SBSATPre1030",
+        "service_description": "Secure Business Saturday Pre 10:30 - Mandatory Signature"
+    },
+    {
+        "carrier": "EVRI",
+        "service_code": "END",
+        "service_description": "Next Day"
+    },
+    {
+        "carrier": "EVRI",
+        "service_code": "ESD",
+        "service_description": "Standard & ROW"
+    },
+    {
+        "carrier": "EVRI",
+        "service_code": "ERTN",
+        "service_description": "Returns"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "1",
+        "service_description": "Parcel Neighbour Next day"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "2",
+        "service_description": "Parcel Neighbour Next day 12:00"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "9",
+        "service_description": "Parcel Neighbour Next day 10:30"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "4",
+        "service_description": "Parcel Neighbour Saturday"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "7",
+        "service_description": "Parcel Neighbour Saturday 10:30"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "48",
+        "service_description": "Parcel Neighbour 48 hours"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "10",
+        "service_description": "Bagit XL Neighbour Next day"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "11",
+        "service_description": "Bagit XL Neighbour Next day 12:00"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "19",
+        "service_description": "Bagit XL Neighbour Next day 10:30"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "13",
+        "service_description": "Bagit XL Neighbour Saturday"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "16",
+        "service_description": "Bagit XL Neighbour Saturday 10:30"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "20",
+        "service_description": "Bagit L Neighbour Next day"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "21",
+        "service_description": "Bagit L Neighbour Next day 12:00"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "29",
+        "service_description": "Bagit L Neighbour Next day 10:30"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "23",
+        "service_description": "Bagit L Neighbour Saturday"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "26",
+        "service_description": "Bagit L Neighbour Saturday 10:30"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "30",
+        "service_description": "Bagit M Neighbour Next day"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "31",
+        "service_description": "Bagit M Neighbour Next day 12:00"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "39",
+        "service_description": "Bagit M Neighbour Next day 10:30"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "33",
+        "service_description": "Bagit M Neighbour Saturday"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "36",
+        "service_description": "Bagit M Neighbour Saturday 10:30"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "40",
+        "service_description": "Bagit S Neighbour Next day"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "41",
+        "service_description": "Bagit S Neighbour Next day 12:00"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "49",
+        "service_description": "Bagit S Neighbour Next day 10:30"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "43",
+        "service_description": "Bagit S Neighbour Saturday"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "46",
+        "service_description": "Bagit S Neighbour Saturday 10:30"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "210",
+        "service_description": "Parcel Leave Safe Next day"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "211",
+        "service_description": "Parcel Leave Safe Next day 12:00"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "212",
+        "service_description": "Parcel Leave Safe Next day 10:30"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "215",
+        "service_description": "Parcel Leave Safe Saturday"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "216",
+        "service_description": "Parcel Leave Safe Saturday 10:30"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "72",
+        "service_description": "Parcel Leave Safe 72 hours"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "220",
+        "service_description": "Parcel Next day"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "221",
+        "service_description": "Parcel Next day 12:00"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "222",
+        "service_description": "Parcel Next day 10:30"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "3",
+        "service_description": "Parcel Next day 09:00"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "225",
+        "service_description": "Parcel Saturday"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "226",
+        "service_description": "Parcel Saturday 10:30"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "5",
+        "service_description": "Parcel Saturday 09:00"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "230",
+        "service_description": "Bagit S Leave Safe Next day"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "232",
+        "service_description": "Bagit S Leave Safe Next day 10:30"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "231",
+        "service_description": "Bagit S Leave Safe Next day 12:00"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "235",
+        "service_description": "Bagit S Leave Safe Saturday"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "236",
+        "service_description": "Bagit S Leave Safe Saturday 10:30"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "240",
+        "service_description": "Bagit S Next day"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "241",
+        "service_description": "Bagit S Next day 12:00"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "242",
+        "service_description": "Bagit S Next day 10:30"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "42",
+        "service_description": "Bagit S Next day 09:00"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "245",
+        "service_description": "Bagit S Saturday"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "246",
+        "service_description": "Bagit S Saturday 10:30"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "44",
+        "service_description": "Bagit S Saturday 09:00"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "250",
+        "service_description": "Bagit M Next day"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "251",
+        "service_description": "Bagit M Next day 12:00"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "252",
+        "service_description": "Bagit M Next day 10:30"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "32",
+        "service_description": "Bagit M Next day 09:00"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "255",
+        "service_description": "Bagit M Saturday"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "256",
+        "service_description": "Bagit M Saturday 10:30"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "34",
+        "service_description": "Bagit M Saturday 09:00"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "260",
+        "service_description": "Bagit L Next day"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "261",
+        "service_description": "Bagit L Next day 12:00"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "262",
+        "service_description": "Bagit L Next day 10:30"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "22",
+        "service_description": "Bagit L Next day 09:00"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "265",
+        "service_description": "Bagit L Saturday"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "266",
+        "service_description": "Bagit L Saturday 10:30"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "24",
+        "service_description": "Bagit L Saturday 09:00"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "270",
+        "service_description": "Bagit XL Next day"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "271",
+        "service_description": "Bagit XL Next day 12:00"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "272",
+        "service_description": "Bagit XL Next day 10:30"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "12",
+        "service_description": "Bagit XL Next day 09:00"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "275",
+        "service_description": "Bagit XL Saturday"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "276",
+        "service_description": "Bagit XL Saturday 10:30"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "14",
+        "service_description": "Bagit XL Saturday 09:00"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "340",
+        "service_description": "Bagit M Leave Safe Next day"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "341",
+        "service_description": "Bagit M Leave Safe Next day 12:00"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "349",
+        "service_description": "Bagit M Leave Safe Next day 10:30"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "343",
+        "service_description": "Bagit M Leave Safe Saturday"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "346",
+        "service_description": "Bagit M Leave Safe Saturday 10:30"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "360",
+        "service_description": "Bagit L Leave Safe Next day"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "361",
+        "service_description": "Bagit L Leave Safe Next day 12:00"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "369",
+        "service_description": "Bagit L Leave Safe Next day 10:30"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "363",
+        "service_description": "Bagit L Leave Safe Saturday"
+    },
+    {
+        "carrier": "DHL Parcel UK",
+        "service_code": "366",
+        "service_description": "Bagit L Leave Safe Saturday 10:30"
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y2CPR      ",
+        "service_description": "XPRESS 48 RETURN                             "
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y2VSN      ",
+        "service_description": "XPECT MINI 48 NON POD                        "
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y1VSN",
+        "service_description": "XPECT MINI 24 NON POD"
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y1VMP      ",
+        "service_description": "XPECT MEDIUM 24 POD                          "
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y1VMN      ",
+        "service_description": "XPECT MEDIUM 24 NON POD                      "
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y2VMP      ",
+        "service_description": "XPECT MEDIUM 48 POD                          "
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y2VMN      ",
+        "service_description": "XPECT MEDIUM 48 NON POD                      "
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y2VLR      ",
+        "service_description": "XPECT 48 XL RETURN POD                       "
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y1CP       ",
+        "service_description": "XPRESS 24 POD                                "
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y1CN       ",
+        "service_description": "XPRESS 24 NON POD                            "
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y2CP       ",
+        "service_description": "XPRESS 48 POD                                "
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y2CN       ",
+        "service_description": "XPRESS 48 NON POD                            "
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y1VP       ",
+        "service_description": "XPECT 24 POD                                 "
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y1VN       ",
+        "service_description": "XPECT 24 NON POD                             "
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y2VP       ",
+        "service_description": "XPECT 48 POD                                 "
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y2VN       ",
+        "service_description": "XPECT 48 NON POD                             "
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y2VLP      ",
+        "service_description": "XPECT 48 XL POD                              "
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y2VLN      ",
+        "service_description": "XPECT 48 XL NON POD                          "
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y1VSP      ",
+        "service_description": "XPECT SATURDAY POD                           "
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y1VSN      ",
+        "service_description": "XPECT SATURDAY NON POD                       "
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y2VPR      ",
+        "service_description": "XPECT 48 RETURN POD                          "
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y1VPR      ",
+        "service_description": "XPERT 24 RETURN POD                          "
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y2CMN      ",
+        "service_description": "XPRESS MINI 48 NON POD                       "
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y1VLP      ",
+        "service_description": "XPECT 24 XL POD                              "
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y1VLN      ",
+        "service_description": "XPECT 24 XL NON POD                          "
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "YC24P      ",
+        "service_description": "COLLECT+ CLICK & COLLECT 24                  "
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "YC48P      ",
+        "service_description": "COLLECT+ CLICK & COLLECT 48                  "
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y48NPOD",
+        "service_description": "CHANNEL ISLANDS 48 NON POD"
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y48POD",
+        "service_description": "CHANNEL ISLANDS 48 POD"
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y1CNNI",
+        "service_description": "NI XPRESS 24 NON POD"
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y1CPNI",
+        "service_description": "NI XPRESS 24 POD"
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y1VLNNI",
+        "service_description": "NI XPECT 24 XL NON POD "
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y1VLPNI ",
+        "service_description": "NI XPECT 24 XL POD NI"
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y1VNNI ",
+        "service_description": "NI XPECT 24 NON POD"
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y1VPNI ",
+        "service_description": "NI XPECT 24 POD"
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y1VSNNI ",
+        "service_description": "NI XPECT SATURDAY NON POD"
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y1VSPNI ",
+        "service_description": "NI XPECT SATURDAY POD"
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y2CMNNI ",
+        "service_description": "NI XPRESS MINI 48 NON POD"
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y2CNNI ",
+        "service_description": "NI XPRESS 48 NON POD"
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y2CPNI ",
+        "service_description": "NI XPRESS 48 POD"
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y2VLNNI ",
+        "service_description": "NI XPECT 48 XL NON POD"
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y2VLPNI ",
+        "service_description": "NI XPECT 48 XL POD"
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y2VNNI ",
+        "service_description": "NI XPECT 48 NON POD"
+    },
+    {
+        "carrier": "Yodel",
+        "service_code": "Y2VPNI ",
+        "service_description": "NI XPECT 48 POD"
+    },
+    {
+        "carrier": "DHL Express",
+        "service_code": "DHLXE",
+        "service_description": "EXPRESS 9:00"
+    },
+    {
+        "carrier": "DHL Express",
+        "service_code": "DHLXH",
+        "service_description": "ECONOMY SELECT"
+    },
+    {
+        "carrier": "DHL Express",
+        "service_code": "DHLXI",
+        "service_description": "DOMESTIC EXPRESS 9:00"
+    },
+    {
+        "carrier": "DHL Express",
+        "service_code": "DHLXK",
+        "service_description": "EXPRESS 9:00"
+    },
+    {
+        "carrier": "DHL Express",
+        "service_code": "DHLXM",
+        "service_description": "EXPRESS 10:30"
+    },
+    {
+        "carrier": "DHL Express",
+        "service_code": "DHLXN",
+        "service_description": "DOMESTIC EXPRESS"
+    },
+    {
+        "carrier": "DHL Express",
+        "service_code": "DHLXO",
+        "service_description": "DOMESTIC EXPRESS 10:30"
+    },
+    {
+        "carrier": "DHL Express",
+        "service_code": "DHLXP",
+        "service_description": "EXPRESS WORLDWIDE"
+    },
+    {
+        "carrier": "DHL Express",
+        "service_code": "DHLXY",
+        "service_description": "EXPRESS 12:00"
+    },
+    {
+        "carrier": "DHL Express",
+        "service_code": "DHLXG",
+        "service_description": "DOMESTIC ECONOMY SELECT"
+    },
+    {
+        "carrier": "DHL Express",
+        "service_code": "DHLX1",
+        "service_description": "DOMESTIC EXPRESS 12:00"
+    }
+]
